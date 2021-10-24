@@ -4,5 +4,5 @@ This folder contains an example of using an ANN to learn the hedge strategy in a
 
 Here is an example of the
 
-![](net_10_5_dist24.png)
+![](images/net_10_5_dist24.png)
 
