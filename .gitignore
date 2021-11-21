@@ -1175,3 +1175,7 @@ VAEs/VAE_lr_5_001fit_98.png
 VAEs/VAE_lr_5_001fit_99.png
 ANN_Hedging/.ipynb_checkpoints/Hedging_BullSpread_CVaR-checkpoint.ipynb
 ANN_Hedging/Hedging_BullSpread_CVaR.ipynb
+VAEs/IBM.pkl
+VAEs/AMZN.pkl
+VAEs/INTC.pkl
+VAEs/TSLA.pkl
